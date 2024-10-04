@@ -4,7 +4,7 @@ This project aims to review and examine existing explainability methods for cert
 The main research questions guiding this study are:
 1) How to measure the utility of the explanation generated
 by different methods?
-2) How do the explainability methods perform given dif￾ferent datasets and what could be the reason if the
+2) How do the explainability methods perform given different datasets and what could be the reason if the
 performance of the methods differs?
 3) Whether model-specific methods achieve better results
 than model-agnostic methods?
