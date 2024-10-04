@@ -11,6 +11,8 @@ than model-agnostic methods?
 4) Whether model-agnostic methods could be used on the
 results of unsupervised learning algorithms?
 5) How to improve the performance of the methods?
+
+See the paper at https://github.com/XiChen920/Explainable-AI-and-Machine-Learning-in-Health-Care/blob/main/Paper.pdf
 ## Introduction
 This project contains two ".ipynb" Jupiter notebook files and their dataset utilized. The "Parkinson Dataset Notebook.ipynb" utilizes the dataset "parkinson.data". The "Diabetes Dataset Notebook" utlizes the dataset "diabetes.csv".
 
